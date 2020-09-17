@@ -1,11 +1,11 @@
 # LeetCode 刷题记录
 
-> 使用 python 来刷题了，重要的是思路，毕竟python方便调试，不容易出bug
+> 使用 python 来刷题了，重要的是思路，毕竟python方便调试，不容易出bug，但是容易超时。
 
 | Solution                                                     | Difficulty | Tag  |
 | ------------------------------------------------------------ | ---------- | ---- |
-| [72. 编辑距离](https://github.com/chenkangyang/lt-solutions/blob/master/Solutions/0072.py) | 困难       | 动归 |
-
+| [0072. 编辑距离](https://github.com/chenkangyang/lt-solutions/blob/master/Solutions/0072.py) | 困难       | 动归 |
+| [0887. 编辑距离](https://github.com/chenkangyang/lt-solutions/blob/master/Solutions/0887.py) | 困难       | 动归，二分 |
 ### 推荐题解
 
 1. [ApacheCN](https://github.com/apachecn/Interview/tree/master/docs/Algorithm)
