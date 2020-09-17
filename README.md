@@ -4,7 +4,7 @@
 
 | Solution                                                     | Difficulty | Tag  |
 | ------------------------------------------------------------ | ---------- | ---- |
-| [72. 编辑距离](https://github.com/chenkangyang/lt-solutions/Solutions/0072.py) | 困难       | 动归 |
+| [72. 编辑距离](https://github.com/chenkangyang/lt-solutions/blob/master/Solutions/0072.py) | 困难       | 动归 |
 
 ### 推荐题解
 
